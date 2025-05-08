@@ -1,0 +1,12 @@
+C:\Users\AORUS\source\repos\test2\test2\bin\Debug\test2.exe.config
+C:\Users\AORUS\source\repos\test2\test2\bin\Debug\test2.exe
+C:\Users\AORUS\source\repos\test2\test2\bin\Debug\test2.pdb
+C:\Users\AORUS\source\repos\test2\test2\bin\Debug\EntityFramework.dll
+C:\Users\AORUS\source\repos\test2\test2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AORUS\source\repos\test2\test2\bin\Debug\EntityFramework.xml
+C:\Users\AORUS\source\repos\test2\test2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AORUS\source\repos\test2\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\Users\AORUS\source\repos\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\source\repos\test2\test2\obj\Debug\test2.csproj.CopyComplete
+C:\Users\AORUS\source\repos\test2\test2\obj\Debug\test2.exe
+C:\Users\AORUS\source\repos\test2\test2\obj\Debug\test2.pdb
